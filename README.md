@@ -1,6 +1,8 @@
-Market Intelligence System 📈
+Market Intelligence System :
+
 I built this during Class 12 while teaching myself Python and data science. Started as a simple price alert script and kept adding things until it became... this.
 It monitors stock prices in real time, runs ML models to detect trends, scrapes financial news and analyses sentiment, then sends everything to my phone via Telegram. Fully automated.
+
 
 What it actually does
 
