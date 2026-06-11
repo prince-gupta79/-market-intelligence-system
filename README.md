@@ -4,7 +4,7 @@ I built this during Class 12 while teaching myself Python and data science. Star
 It monitors stock prices in real time, runs ML models to detect trends, scrapes financial news and analyses sentiment, then sends everything to my phone via Telegram. Fully automated.
 
 
-What it actually does
+What it actually does :
 
 - Tracks live prices for NVDA, NEE, GLD, BTC-USD using yfinance
 - Logs everything to a local SQLite database with timestamps
